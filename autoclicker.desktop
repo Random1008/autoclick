@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Autoclicker
+GenericName=Autoclicker
+Comment=Clics automatiques via /dev/uinput (fonctionne partout sous Wayland)
+Exec=autoclicker
+TryExec=autoclicker
+Icon=input-mouse
+Terminal=false
+StartupNotify=true
+StartupWMClass=org.local.Autoclicker
+Categories=Utility;Accessibility;
+Keywords=autoclicker;click;souris;mouse;uinput;wayland;coordonnees;fenetre;cible;
